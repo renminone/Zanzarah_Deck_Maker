@@ -1,7 +1,7 @@
 # Zanzarah_Deck_Maker
 
 
-Russian:
+# Russian:
 
 Данная программа позволяет создавать случайные колоды фей в заданном диапазоне.
 
@@ -26,6 +26,6 @@ Russian:
 ВАЖНО! После получения кода вставьте его в HxD Editor и уберите все 0D.
 
 
-English:
+# English:
 
 Coming soon.
